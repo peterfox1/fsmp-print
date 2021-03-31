@@ -6,8 +6,8 @@
 ---
 #### Single Stand
 
-* [stand_left.stl](stl/stand_left.stl)
-* [stand_right.stl](stl/stand_right.stl)
+* [stand_left.stl](stand_left.stl)
+* [stand_right.stl](stand_right.stl)
 
 Print with the slots on top. Print one at a time for best results.
 
@@ -20,8 +20,8 @@ Print with the slots on top. Print one at a time for best results.
 ---
 #### Dual Stand
 
-* [dual_stand_left.stl](stl/dual_stand_left.stl)
-* [dual_stand_right.stl](stl/dual_stand_right.stl)
+* [dual_stand_left.stl](dual_stand_left.stl)
+* [dual_stand_right.stl](dual_stand_right.stl)
 
 Print with the slots on top. Print one at a time for best results.
 

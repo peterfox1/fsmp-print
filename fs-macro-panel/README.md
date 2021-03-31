@@ -7,7 +7,7 @@
 ---
 #### Body (x1)
 
-[body.stl](stl/body.stl)
+[body.stl](body.stl)
 
 Print this way up:
 
@@ -20,7 +20,7 @@ Print this way up:
 ---
 #### Square Buttons (x7)
 
-[square_button.stl](stl/square_button.stl)
+[square_button.stl](square_button.stl)
 * Use a transparent filament for the base, and silver for the top.
 * Set a filament change on layer 69 in your slicer so the last 4 layers are in Silver.
 
@@ -35,8 +35,8 @@ Designed to be printed either way up. They are best printed the right way up wit
 
 ##### Separate parts for multi-material printers:
 * [Preview Image](img/square_buttons_multi_material.png)
-* [square_button_base.stl](stl/square_button_base.stl)
-* [square_button_face.stl](stl/square_button_face.stl)
+* [square_button_base.stl](square_button_base.stl)
+* [square_button_face.stl](square_button_face.stl)
 
 
 ---
@@ -68,7 +68,7 @@ Print upside down
 ---
 #### Oled spacer (x1)
 
-[oled_spacer_0.2mm.stl](stl/oled_spacer_0.2mm.stl)
+[oled_spacer_0.3mm.stl](oled_spacer_0.3mm.stl)
 
 Print on it's side with the notches lying on the print bed.
 
@@ -80,7 +80,7 @@ Print on it's side with the notches lying on the print bed.
 ---
 #### Oled pin spacer (x1)
 
-[oled_spacer_0.2mm.stl](stl/oled_pin_spacer_0.2mm.stl)
+[oled_spacer_0.3mm.stl](oled_pin_spacer_0.3mm.stl)
 
 Print on it's side with the notches lying on the print bed.
 
