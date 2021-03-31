@@ -15,7 +15,7 @@ Print this way up:
 
 * Layer height: 0.35mm
 * Infill: 10%
-* Consider using a brim if you encounter first layer issues.
+* Consider using a brim to avoid first layer issues or warping
 
 ---
 #### Square Buttons (x7)
@@ -50,7 +50,7 @@ Can be printed either way up. They are best printed the right way up with 'ironi
 
 * Layer height: 0.15mm
 * Infill: 0%
-* Small base, use a brim.
+* Small base, consider using a brim.
 
 ---
 #### Dial Caps (x2)
@@ -62,7 +62,6 @@ Print upside down
 ![](img/dial_caps.png)
 
 * Layer height: 0.15mm
-* Small base, use a brim.
 * Infill: 0%
 
 ---
