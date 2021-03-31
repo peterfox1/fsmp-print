@@ -68,7 +68,7 @@ Print upside down
 ---
 #### Oled spacer (x1)
 
-[oled_spacer_0.3mm.stl](oled_spacer_0.3mm.stl)
+[oled_spacer_3.3mm.stl](oled_spacer_3.3mm.stl)
 
 Print on it's side with the notches lying on the print bed.
 
@@ -80,7 +80,7 @@ Print on it's side with the notches lying on the print bed.
 ---
 #### Oled pin spacer (x1)
 
-[oled_spacer_0.3mm.stl](oled_pin_spacer_0.3mm.stl)
+[oled_pin_spacer_3.3mm.stl](oled_pin_spacer_3.3mm.stl)
 
 Print on it's side with the notches lying on the print bed.
 
