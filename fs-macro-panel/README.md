@@ -6,7 +6,7 @@ Filament Guidelines
 * Transparent
   * Reprapper Translucent PLA (used for assembled devices) (Discontinued! - alternatives will be tested & confirmed)
 
-Generally alternatives should be ok and only provide a slight colour mismatch - I will be confirming the altertives for the transparent filaments in the next week to ensure the lighting affect works correctly too.
+I will be testing alternatives for the transparent filaments in the next week to confirm that the lighting effect works for these too.
 
 ---
 #### Body (x1)
