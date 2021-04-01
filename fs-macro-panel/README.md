@@ -1,8 +1,12 @@
 ### FS Macro Panel
 
-* Filament used on the assembled models:
-  * Prusa Silver PLA (non-glitter)
-  * Prusa Clear PLA
+Filament Guidelines
+* Silver
+  * Prusa Silver PLA (used for assembled devices)
+* Transparent
+  * Reprapper Translucent PLA (used for assembled devices) (Discontinued! - alternatives will be tested & confirmed)
+
+Generally alternatives should be ok and only provide a slight colour mismatch - I will be confirming the altertives for the transparent filaments in the next week to ensure the lighting affect works correctly too.
 
 ---
 #### Body (x1)
