@@ -1,7 +1,9 @@
 ### FS Macro Panel - Stand
 
-* Filament used on the assembled models:
-  * Prusa Silver PLA
+* Filament:
+  * Prusa Silver PLA (used for assembled devices)
+  * Amazon Basics Silver PLA (good colour match)
+  * Basicfil Silver PLA (good colour match)
 
 ---
 #### Single Stand
@@ -13,7 +15,7 @@ Print with the slots on top. Print one at a time for best results.
 
 ![](img/stand_left_right.png)
 
-* Layer height: 0.35mm (or lower)
+* Layer height: 0.2mm (or lower for higher quaility, assembled units use variable layer height)
 * Infill: 10%
 * A brim can be used with this if you encounter first layer issues. It may leave a rough edge but it will be on the inside.
 
@@ -27,7 +29,7 @@ Print with the slots on top. Print one at a time for best results.
 
 ![](img/dual_stand_left_right.png)
 
-* Layer height: 0.35mm (or lower)
+* Layer height: 0.2mm (or lower for higher quaility, assembled units use variable layer height)
 * Infill: 10%
 * A brim can be used with this if you encounter first layer issues. It may leave a rough edge but it will be on the inside.
 
