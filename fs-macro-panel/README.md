@@ -35,7 +35,9 @@ Print this way up:
 * Use a translucent filament for the base and silver for the top.
 * Set a filament change to be 0.5mm from the top (4 layers from the top - layer 69 when printing at 0.15mm)
 
-Designed to be printed either way up. They are best printed the right way up with 'ironing' enabled for the top layer.
+Designed to be printed either way up. They are best printed the right way up for first layer adhesion.
+
+Print each one individually (or use the individual output option if available) for best results.
 
 ![](img/square_buttons.png)
   
@@ -53,9 +55,11 @@ Designed to be printed either way up. They are best printed the right way up wit
 ---
 #### Modifier Buttons (x2)
 
-[modifier_button.stl](stl/modifier_button.stl)
+[modifier_button.stl](modifier_button.stl)
 
-Can be printed either way up. They are best printed the right way up with 'ironing' enabled for the top layer.
+Can be printed either way up. They are best printed the right way up for first layer adhesion.
+
+Print each one individually (or use the individual output option if available) for best results.
 
 ![](img/modifier_buttons.png)
 
@@ -68,7 +72,9 @@ Can be printed either way up. They are best printed the right way up with 'ironi
 
 *WIP - STL will be added soon!*
 
-Print upside down
+Print upside down.
+
+Print each one individually (or use the individual output option if available) for best results.
 
 ![](img/dial_caps.png)
 
