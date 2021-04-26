@@ -11,7 +11,9 @@
 * [stand_left.stl](stand_left.stl)
 * [stand_right.stl](stand_right.stl)
 
-Print with the slots on top. Print one at a time for best results.
+Print with the slots on top. Print one at a time to avoid stringing.
+
+These are very suitable for variable layer height, set a smaller layer height for the top and button ares to help smooth our the curved egdes.
 
 ![](img/stand_left_right.png)
 
@@ -25,7 +27,7 @@ Print with the slots on top. Print one at a time for best results.
 * [dual_stand_left.stl](dual_stand_left.stl)
 * [dual_stand_right.stl](dual_stand_right.stl)
 
-Print with the slots on top. Print one at a time for best results.
+Print with the slots on top. Print one at a time to avoid stringing.
 
 ![](img/dual_stand_left_right.png)
 
