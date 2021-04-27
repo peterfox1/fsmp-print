@@ -19,7 +19,7 @@ Print this way up:
 
 ![](img/body.png)
 
-* Layer height: 0.35mm (or smaller)
+* Layer height: 0.2mm
 * Infill: 10%
 * Should be fine without a brim, consider using one if you experience warping.
 * If it does warp slightly, you could still use it but you will want to avoid tightening the screws too much on the warped corner, it may inpare the buttons.
@@ -68,16 +68,19 @@ Print each one individually (or use the individual output option if available) t
 ---
 #### Dial Caps (x2)
 
-*WIP - STL will be added soon!*
+[dial_type_2_knurled.stl](dial_type_2_knurled.stl)
 
-Print upside down.
+Print with the hole at the bottom, this allows a lower layer height for the top of the dial for a smooth edge.
 
-Print each one individually (or use the individual output option if available) for best results.
+For the assembled devices I'm using a variable layer height to get 0.1mm for the very top layers.
+
+Print each one individually (or use the individual output option if available) to avoid stringing.
 
 ![](img/dial_caps.png)
 
-* Layer height: 0.15mm
+* Layer height: 0.15mm (0.1mm may be slightly better if you're not using variable layer height)
 * Infill: 0%
+* Detect thin walls: Enabled (optional, seems well suited for this print)
 
 ---
 #### Oled spacer (x1)
