@@ -13,13 +13,13 @@
 
 Print with the slots on top. Print one at a time to avoid stringing.
 
-These are very suitable for variable layer height, set a smaller layer height for the top and button ares to help smooth our the curved egdes.
+These are very suitable for variable layer height, set a smaller layer height for the top and bottom areas to help smooth our the curved egdes.
 
 ![](img/stand_left_right.png)
 
-* Layer height: 0.2mm (or lower for higher quaility, assembled units use variable layer height)
-* Infill: 10%
-* A brim can be used with this if you encounter first layer issues. It may leave a rough edge but it will be on the inside.
+* Layer height: 0.15mm - 0.2mm (or use 0.35mm with variable layer hight, aiming for 0.15 or better on the top and bottom)
+* Enable 'avoid crossing perimiters' to avoid possible stringing inside of the slots.
+* Infill: 5% - 10%
 
 ---
 #### Dual Stand
@@ -31,9 +31,8 @@ Print with the slots on top. Print one at a time to avoid stringing.
 
 ![](img/dual_stand_left_right.png)
 
-* Layer height: 0.2mm (or lower for higher quaility, assembled units use variable layer height)
+* Layer height: 0.15mm - 0.2mm (or use a variable layer height for more detail on the top and bottom layers)
 * Infill: 10%
-* A brim can be used with this if you encounter first layer issues. It may leave a rough edge but it will be on the inside.
 
 
 ---
