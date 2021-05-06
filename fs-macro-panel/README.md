@@ -8,7 +8,7 @@ Filament Guidelines
 * Translucent
   * Used for the illuminated buttons.
   * Reprapper Translucent (+glow) PLA (used for assembled devices) (Discontinued!)
-  * Amazon Basics Clear/Translucent PLA with 50% infill. (Good match). 12g / 4 meters (12 buttons) of this is included with the self-print kits!
+  * Amazon Basics Clear/Translucent PLA with 50% infill. (Good match). 12g / 4 meters (12 buttons) is included with the self-print kits!
 
 ---
 #### Body (x1)
@@ -22,33 +22,25 @@ Print this way up:
 * Layer height: 0.2mm
 * Infill: 10%
 * Should be fine without a brim, consider using one if you experience warping.
-* If it does warp slightly, you could still use it but you will want to avoid tightening the screws too much on the warped corner, it may inpare the buttons.
+* If it does warp slightly, you could still use it but you will want to avoid tightening the screws too much on the warped corner, it may impair the buttons.
 
 ---
 #### Action Buttons (x7)
 
-[square_button.stl](square_button.stl)
+💡 [06-April] Updated button design - provides more space between the buttons and the screen, reducing the sensitivity of the screen positioning & alignment.
+
+[button.stl](button.stl)
 * Use a translucent filament for the base and silver for the top.
 * Set a filament change to be 0.5mm from the top (4 layers from the top - layer 69 when printing at 0.15mm)
-* Use 50% infill with a 3D infil pattern to maximise diffusion to create a softer lighting affect. I used [Cubic](https://help.prusa3d.com/en/article/inifill-patterns_177130)  
+* Use 50% infill with a 3D infill pattern to maximise diffusion to create a softer lighting affect. E.g. [Cubic](https://help.prusa3d.com/en/article/inifill-patterns_177130)  
 
 Designed to be printed either way up. They are best printed the right way up for first layer adhesion.
 
-Print each one individually (or use the individual output option if available) to avoid stringing.
-
-![](img/square_buttons.png)
+![](img/buttons.png)
 
 * Layer height: 0.15mm
 * Infill: 50% (40% was ok too - the aim is to diffuse the light as much as possible so higher is better, without going too high!)
 * Small base, consider using a brim if you have print failures
-
-
-##### Separate parts for multi-material printers:
-The filiament change method above should be best in most cases, but if you prefer to use multi-material then you can create a single print job with these. The wipe amount can be reduced to 30% of the default prusa profiles.
-* [Preview Image](img/square_buttons_multi_material.png)
-* [square_button_base.stl](square_button_base.stl)
-* [square_button_face.stl](square_button_face.stl)
-
 
 ---
 #### Modifier Buttons (x2)
@@ -92,7 +84,7 @@ Print on it's side with the notches lying on the print bed.
 ![](img/oled_spacer.png)
 
 * Layer height: 0.15mm
-* Infill: 10%
+* Infill: 0%
 
 ---
 #### Oled pin spacer (x1)
@@ -104,4 +96,4 @@ Print on it's side with the notches lying on the print bed.
 ![](img/oled_pin_spacer.png)
 
 * Layer height: 0.15mm
-* Infill: 10%
+* Infill: 0%
